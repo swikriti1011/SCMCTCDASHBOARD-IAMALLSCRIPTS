@@ -1,0 +1,2 @@
+# SCMCTCDASHBOARD-IAMALLSCRIPTS
+Scripts for 3 devices
